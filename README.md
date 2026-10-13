@@ -97,10 +97,10 @@ O foco prático do meu trabalho se divide em:
 ### 📊 Métricas & Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gutyoshi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61AFEF&text_color=ABB2BF&icon_color=98C379" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutyoshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61AFEF&text_color=ABB2BF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gutyoshi&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61AFEF&text_color=ABB2BF&icon_color=98C379" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutyoshi&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61AFEF&text_color=ABB2BF" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gutyoshi&theme=tokyonight&hide_border=true&background=0D1117" width="95%" />
+  <img src="https://streak-stats.demolab.com/?user=Gutyoshi&count_private=true&theme=tokyonight&hide_border=true&background=0D1117" width="95%" />
 </div>
