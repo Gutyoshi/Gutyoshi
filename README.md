@@ -1,6 +1,8 @@
 <div align="center">
-  <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=195&section=header&text=Gutyoshi&fontSize=42&fontAlignY=36&desc=Founder%20%26%20Tech%20Lead%20%40%20Avilon%20Hub%20%7C%20Full-Stack%20Node.js%20%26%20Systems%20%7C%20Autonomous%20AI%20%26%20MCP&descAlignY=62&descSize=14&fontColor=ffffff" width="100%" />
+  <h1 align="center">Gutyoshi</h1>
+  <p align="center">
+    <strong>Founder & Tech Lead @ Avilon Hub</strong> | Full-Stack Node.js & Systems Architecture
+  </p>
 
   <!-- Dynamic Typing Headline -->
   <a href="https://git.io/typing-svg">
