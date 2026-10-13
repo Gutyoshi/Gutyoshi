@@ -1,90 +1,111 @@
 <div align="center">
   <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=190&section=header&text=Gutyoshi&fontSize=42&fontAlignY=36&desc=Systems%20Engineering%20%7C%20Agentic%20AI%20Architecture%20%7C%20Windows%20Internals%20%26%20Reversing&descAlignY=62&descSize=15&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=195&section=header&text=Gutyoshi&fontSize=42&fontAlignY=36&desc=Founder%20%26%20Tech%20Lead%20%40%20Avilon%20Hub%20%7C%20Full-Stack%20Node.js%20%26%20Systems%20%7C%20Autonomous%20AI%20%26%20MCP&descAlignY=62&descSize=14&fontColor=ffffff" width="100%" />
 
   <!-- Dynamic Typing Headline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=620&lines=Building+CodeLens+Pro;Agentic+AI+Orchestration+%26+Context+Acceleration;Windows+Internals%2C+Network+Tunnels+%26+OS+Tuning;Reverse+Engineering%2C+C%2B%2B+%26+Binary+Analysis;High-Performance+Automation+with+Lua+%26+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Founder+%26+Tech+Lead+%40+Avilon+Hub+(Venture+Builder);Architecting+Forge+Engine+%26+CodeLens+Pro;Full-Stack+Node.js%2C+TypeScript+Monorepos+%26+WebSockets;Autonomous+AI+Pipelines+%26+Model+Context+Protocol+(MCP);Systems+Engineering%2C+Windows+Internals+%26+C%2B%2B" alt="Typing SVG" />
   </a>
 
   <p align="center">
+    <img src="https://img.shields.io/badge/Avilon%20Hub-Software%20House%20%26%20Venture%20Builder-0070F3?style=flat-square&logo=vercel&logoColor=white" />
     <a href="https://codelens.cloud"><img src="https://img.shields.io/badge/CodeLens-codelens.cloud-61AFEF?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/Core-C%2B%2B%20%7C%20Systems-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Research-Reverse%20Engineering-FF6F00?style=flat-square&logo=binary&logoColor=white" />
-    <img src="https://img.shields.io/badge/Orchestration-Multi--Agent%20Systems-10A37F?style=flat-square&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/OS-Windows%20Internals-0078D6?style=flat-square&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20TypeScript%20%7C%20C%2B%2B-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Protocol-MCP%20Architecture-10A37F?style=flat-square&logo=openai&logoColor=white" />
   </p>
 </div>
 
 ---
 
-### ⚡ Visão Geral
+### ⚡ Visão Executiva & Perfil
 
-Engenheiro especializado na intersecção entre **baixo nível / sistemas operacionais** e a **nova infraestrutura de inteligência artificial autônoma**. 
+Founder e Tech Lead à frente da **Avilon Hub** (Software House & Venture Builder), combinando desenvolvimento de produtos digitais escaláveis de ponta a ponta com engenharia de sistemas e infraestrutura avançada de inteligência artificial autônoma.
 
-O foco prático do meu trabalho se divide em:
-- **Arquitetura de Contexto & Agentes de IA**: Construção de ferramentas nativas e aceleradores de contexto para agentes de código autônomos.
-- **Engenharia de Sistemas & Windows Internals**: Manipulação de processos, redes em loopback/split-tunneling, scripts cirúrgicos de debloat, telemetria e otimização profunda de SO.
-- **Engenharia Reversa & Baixo Nível**: Análise de binários x86/x64, inspeção de memória, hooking e scripting nativo de alta performance.
+- 🏢 **Venture Building & Full-Stack**: Liderança técnica de produtos, SaaS e sistemas corporativos em larga escala utilizando monorepos em TypeScript, Node.js, WebSockets em tempo real e PostgreSQL.
+- 🤖 **Forge Engine**: Arquiteto da engine de automação autônoma baseada em múltiplos agentes, integrando `@forge/core` (DAGs de execução), `@forge/cockpit` (streaming de terminal via `node-pty` e WebSockets), `@forge/cli` e servidores nativos no padrão **Model Context Protocol (MCP)**.
+- 🛡️ **CodeLens Pro**: Criador do acelerador de contexto nativo e armadura de integridade arquitetural para agentes de codificação autônomos ([codelens.cloud](https://codelens.cloud)).
+- 🔬 **Engenharia de Sistemas & Low-Level**: Experiência prática em Windows Internals, manipulação de processos, redes em loopback/split-tunneling e desenvolvimento nativo em C++.
 
 ---
 
-### 🎯 Matriz de Especialidades
+### 🎯 Matriz de Domínios & Especialidades
 
-| Domínio | Foco Técnico | Tecnologias & Ferramentas |
+| Domínio | Foco Arquitetural | Stack & Tecnologias |
 |---|---|---|
-| **🤖 Agentic AI & Context Architecture** | Aceleração de contexto para LLMs, Model Context Protocol (MCP), orquestração de múltiplos agentes, preservação de integridade de arquitetura em loops autônomos. | `CodeLens Pro` `MCP` `Multi-Agent Harness` `Vector Retrieval` `Python` |
-| **💻 Windows Internals & Network Routing** | Process isolation, roteamento de rede por processo (per-app proxy/split-tunneling), remoção cirúrgica de telemetria, automação avançada de sistema. | `PowerShell` `Win32 API` `Loopback Relays` `CMD/Batch` `ProcessFlags` |
-| **🔬 Reverse Engineering & Systems** | Desmontagem e análise estática/dinâmica de binários, exploração de arquitetura de memória, inspeção de hooks e bibliotecas nativas. | `C++` `x86/x64 Asm` `Binary Analysis` `WinAPI` `Memory Inspection` |
-| **⚡ High-Performance Scripting & Runtimes** | Automação distribuída, game server scripting, simulação e tooling leve de alta vazão. | `Lua` `Python` `Node.js` `Bash` `Docker` |
+| **🏢 Venture Building & Full-Stack Node.js** | Arquitetura de software houses e venture builders: Monorepos de alta vazão, WebSockets (`ws`), terminais interativos em tempo real (`node-pty`), modelagem de bancos relacionais e integração de APIs corporativas. | `Node.js` `TypeScript` `WebSockets` `PostgreSQL` `React` `Docker` |
+| **🤖 Autonomous AI & Protocol Engineering** | Orquestração autônoma de múltiplos agentes através de DAGs com prova objetiva, servidores e clientes no protocolo MCP (`@modelcontextprotocol/sdk`), compressão semântica e aceleração de contexto para LLMs. | `Forge Engine` `CodeLens Pro` `MCP SDK` `Zod` `Vector DBs` `Python` |
+| **💻 Systems Engineering & Windows Internals** | Isolamento de processos, túneis de rede dedicados por aplicação (per-app proxy/split-tunneling), scripts avançados de otimização de SO, debloat cirúrgico e mitigação de telemetria. | `C++` `Win32 API` `PowerShell` `Loopback Relays` `Process Isolation` |
+| **⚡ High-Performance Scripting & Runtimes** | Automação distribuída, engines de jogos, scripts nativos de simulação e tooling de infraestrutura. | `Lua` `Python` `Bash` `Linux` `Git Hooks` |
 
 ---
 
 ### 🛠 Arsenal Tecnológico
 
 <div align="center">
-  <!-- Systems & Low Level -->
-  <p><strong>Systems & Low-Level</strong></p>
+  <!-- Full-Stack & Runtime -->
+  <p><strong>Full-Stack & Backend Engineering</strong></p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <br/><br/>
+  <!-- AI & Protocol Engineering -->
+  <p><strong>Agentic AI & Protocol Engineering</strong></p>
+  <img src="https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-0D1117?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20DAGs-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Context%20Acceleration-61AFEF?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <br/><br/>
+  <!-- Systems & Infrastructure -->
+  <p><strong>Systems Engineering & Infrastructure</strong></p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%20Internals-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Reverse%20Engineering-FF6F00?style=for-the-badge&logo=binary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <br/><br/>
-  <!-- AI & Orchestration -->
-  <p><strong>Agentic AI & Orchestration</strong></p>
-  <img src="https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-0D1117?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Context%20Optimization-61AFEF?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <br/><br/>
-  <!-- Scripting, Network & Tooling -->
-  <p><strong>Scripting, Tooling & Automation</strong></p>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ---
 
-### 🚀 Flagship Project
+### 🚀 Produtos & Iniciativas em Destaque
 
 <div align="center">
   <table width="100%">
     <tr>
-      <td>
+      <td width="50%">
+        <h3>🏢 Avilon Hub</h3>
+        <p><strong>Software House & Venture Builder</strong></p>
+        <p>Incubação, estruturação e desenvolvimento de produtos digitais, sistemas sob medida e tecnologia corporativa de alta performance.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Role-Founder%20%26%20Tech%20Lead-0070F3?style=flat-square" />
+          <img src="https://img.shields.io/badge/Model-Venture%20Builder-10A37F?style=flat-square" />
+        </p>
+      </td>
+      <td width="50%">
+        <h3>⚙️ Forge Engine</h3>
+        <p><strong>Autonomous Multi-Agent Orchestrator</strong></p>
+        <p>Monorepo de orquestração autônoma de tarefas técnicas em DAGs com isolamento via worktrees, cockpit em tempo real (`node-pty` + WebSockets) e servidor MCP nativo.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Core-TypeScript%20Monorepo-3178C6?style=flat-square" />
+          <img src="https://img.shields.io/badge/UI-Realtime%20Cockpit-010101?style=flat-square" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
         <h3>🛡️ <a href="https://github.com/Gutyoshi/codelens-releases">CodeLens Pro</a></h3>
         <p><strong>The Context Accelerator & Architecture Armor for Autonomous AI Coding Agents.</strong></p>
-        <p>Distribuição de binários nativos de ultra-alta performance projetados para blindar a integridade arquitetural de codebases, acelerar a compressão de contexto e habilitar navegação cirúrgica para agentes autônomos de IA.</p>
+        <p>Distribuição de binários nativos de alta performance para aceleração e compressão semântica de contexto, proteção de arquitetura e navegação cirúrgica para agentes de código.</p>
         <p>
           <a href="https://codelens.cloud"><strong>🌐 Website: codelens.cloud</strong></a> &nbsp;|&nbsp; 
           <a href="https://github.com/Gutyoshi/codelens-releases"><strong>📦 Releases Nativas</strong></a>
         </p>
         <p>
-          <img src="https://img.shields.io/badge/Architecture-Native%20Binaries-61AFEF?style=flat-square" />
+          <img src="https://img.shields.io/badge/Engine-Native%20Binaries-61AFEF?style=flat-square" />
           <img src="https://img.shields.io/badge/Domain-AI%20Coding%20Agents-10A37F?style=flat-square" />
-          <img src="https://img.shields.io/badge/Performance-Zero--Overhead-FF6F00?style=flat-square" />
           <img src="https://img.shields.io/badge/Status-Production-2ea44f?style=flat-square" />
         </p>
       </td>
@@ -94,7 +115,7 @@ O foco prático do meu trabalho se divide em:
 
 ---
 
-### 📊 Métricas & Atividade
+### 📊 Atividade & Métricas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gutyoshi&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61AFEF&text_color=ABB2BF&icon_color=98C379" height="165" />
