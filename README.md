@@ -122,3 +122,4 @@ Founder e Tech Lead à frente da **Avilon Hub** (Software House & Venture Builde
 <div align="center">
   <img src="./github-metrics.svg" width="100%" alt="Métricas de Engenharia — Gutyoshi" />
 </div>
+<!-- profile: verified -->
